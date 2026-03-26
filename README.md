@@ -1,17 +1,17 @@
 # 🌿 PlantsPin - Gestão Inteligente de Vendas
 
-[cite_start]O **PlantsPin** é uma solução mobile desenvolvida para modernizar e simplificar o gerenciamento de vendas e estoque de plantas em **Parintins/AM**[cite: 2, 3]. [cite_start]O foco é substituir o controle manual por uma interface baseada em dados, permitindo que o empreendedor tome decisões estratégicas sobre receita e reposição de produtos. [cite: 10, 11].
+O **PlantsPin** é uma solução mobile desenvolvida para modernizar e simplificar o gerenciamento de vendas e estoque de plantas em **Parintins/AM**. O foco é substituir o controle manual por uma interface baseada em dados, permitindo que o empreendedor tome decisões estratégicas sobre receita e reposição de produtos.
 
 ---
 
 ## 🚀 Funcionalidades Principais
 
-* [cite_start]**Visão Geral (Dashboard)**: Visualização imediata de Receita Total, Total de Vendas e métricas de crescimento[cite: 5].
-* [cite_start]**Gestão de Estoque**: Monitoramento de unidades, preços e alertas visuais para estoque baixo[cite: 6, 7].
-* [cite_start]**Análise de Vendas**: Gráficos intuitivos de evolução da receita semanal e histórico de transações filtrável[cite: 10, 11].
-* [cite_start]**Produtos mais vendidos**: Seção dedicada às plantas mais vendidas. [cite: 5, 6].
-* [cite_start]**Histórico de Transações**: Filtros por status (Concluído/Pendente) para controle financeiro rigoroso. [cite: 12].
-* [cite_start]**Administração da Loja**: Módulo de configurações para gestão de fornecedores e dados da conta. [cite: 12].
+**Visão Geral (Dashboard)**: Visualização imediata de Receita Total, Total de Vendas e métricas de crescimento.
+**Gestão de Estoque**: Monitoramento de unidades, preços e alertas visuais para estoque baixo.
+**Análise de Vendas**: Gráficos intuitivos de evolução da receita semanal e histórico de transações filtrável.
+**Produtos mais vendidos**: Seção dedicada às plantas mais vendidas.
+**Histórico de Transações**: Filtros por status (Concluído/Pendente) para controle financeiro rigoroso.
+**Administração da Loja**: Módulo de configurações para gestão de fornecedores e dados da conta.
 
 ---
 
@@ -27,8 +27,8 @@
 ## 🎨 Interface do Usuário
 
 | Home | Estoque | Relatórios | Configurações
-| :---: | :---: | :---: |
-| ![Home](.assets/images/screenshot-home.png) | ![Estoque](.assets/images/screenshot-inventory.png) | ![Relatorios](.assets/images/screenshot-salesreport.png) | ![Configurações] (.assets/images/screenshot-settings.png)
+| :---: | :---: | :---: | :---: |
+| ![Home](./assets/images/screenshot-home.png) | ![Estoque](./assets/images/screenshot-inventory.png) | ![Relatorios](./assets/images/screenshot-salesreport.png) | ![Configurações] (./assets/images/screenshot-setting.png)
 
 ---
 
@@ -38,7 +38,7 @@ Para rodar este projeto localmente, você precisará do Node.js e do Expo Go ins
 
 1. **Clone o repositório**:
    ```bash
-   git clone [https://github.com/larissamonsalve/plantspin.git](https://github.com/larissamonsalve/plantspin.git)
+   git clone (https://github.com/larissamonsalve/plantspin.git)
 
 2. **Instale as dependências**:
     ```Bash
