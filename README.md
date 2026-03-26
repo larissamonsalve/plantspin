@@ -28,7 +28,7 @@ O **PlantsPin** é uma solução mobile desenvolvida para modernizar e simplific
 
 | Home | Estoque | Relatórios | Configurações
 | :---: | :---: | :---: | :---: |
-| ![Home](./assets/images/screenshot-home.png) | ![Estoque](./assets/images/screenshot-inventory.png) | ![Relatorios](./assets/images/screenshot-salesreport.png) | ![Configurações] (./assets/images/screenshot-setting.png)
+| ![Home](./assets/images/screenshot-home.png) | ![Estoque](./assets/images/screenshot-inventory.png) | ![Relatorios](./assets/images/screenshot-salesreport.png) | ![Configurações](./assets/images/screenshot-setting.png)
 
 ---
 
@@ -49,3 +49,5 @@ Para rodar este projeto localmente, você precisará do Node.js e do Expo Go ins
     npx expo start
 
 4. **Acesse o App: Escaneie o QR Code gerado no terminal usando o aplicativo Expo Go**.
+
+**Nota:Este projeto foi desenvolvido por Larissa Monsalve como parte da evolução prática e acadêmica no curso de Engenharia de Software.**
